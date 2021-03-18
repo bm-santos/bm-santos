@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Bruno 👋</h1>
-<h3 align="center">A passionate front-end developer from Brazil</h3>
 
 - 🌱 I’m currently learning **ReactJs**
 
